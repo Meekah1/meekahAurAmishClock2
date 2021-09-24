@@ -32,6 +32,8 @@ body {
 
 .meekah {
   text-align: center;
+  margin: 0 0 0 2rem;
+  /* font-size: 2rem; */
 }
 
 #bar1,
@@ -46,9 +48,8 @@ body {
 
 .digitalClock {
   width: fit-content;
-  margin: 13rem 0 0 13rem;
-  padding: 10px;
-  /* display: flex; */
+  margin: 13rem 0 0 23rem;
+  /* padding: 10px; */
   justify-content: center;
   align-items: center;
   border-radius: 6px;
